@@ -5,4 +5,9 @@
 #### https://explainshell.com/ truy cập link để luyện tập các câu lệnh 
 #### các thiết bị IoT (nhúng) thường rất dễ bị OS Command Injection và thường bị những lỗi rất giống nhau 
 #### dùng tcp view để xem ứng dụng đang lắng nghe ports nào 
-#### 
+#### https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_03.html 
+#### https://tldp.org/LDP/abs/html/special-chars.html 
+#### https://www.gnu.org/software/bash/manual/html_node/Lists.html 
+#### https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents 
+#### https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html 
+#### 4 tài liệu linux shell
