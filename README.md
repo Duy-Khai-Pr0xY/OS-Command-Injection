@@ -11,3 +11,4 @@
 #### https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents 
 #### https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html 
 #### 4 tài liệu linux shell
+### đặt biệt trong các tham số get,post là bị hiểu nhầm là đang truyền tham số đó chứ k phải là taget
