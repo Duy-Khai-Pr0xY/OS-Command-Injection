@@ -21,3 +21,5 @@
 # Time-Base
 #### dùng thời gian (sleep để burte force) trong python thư viên request có elapsed
 #### trong linux dấu blackslash (\) không có tác dụng, nó chỉ có tác dụng trong php
+#### dấu '' chỉ biểu diễn ký tự trong dấu '' của nó
+#### nếu có thể dùng * trong linux để đọc các tên fle 
