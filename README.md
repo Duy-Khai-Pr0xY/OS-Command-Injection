@@ -23,3 +23,4 @@
 #### trong linux dấu blackslash (\) không có tác dụng, nó chỉ có tác dụng trong php
 #### dấu '' chỉ biểu diễn ký tự trong dấu '' của nó
 #### nếu có thể dùng * trong linux để đọc các tên fle 
+#### khi bị filter ta có thể suy nghĩ đến việc mã hóa nó sau đó giải mã nó và cuối cùng chuyển vào leenhgj shell
